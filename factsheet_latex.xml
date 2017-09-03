@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tool>
+	<value>LaTeX</value>
+	<value>LaTeX ist eine Software, der die Programmiersprache TeX verwendet. LaTeX funktioniert nicht nach dem WYSIWYG Prinzip sondern ist wie HTML eine Auszeichnungssprache.</value>
+	<value>Das Basis-Programm von LaTex ist TeX und wurde von Donald E. Knuth ab 1977 entwickelt. Das Wort LaTeX setzt sich aus Lampert (Leslie Lampert) und TeX zusammen. LaTeX ist eine Sammlung von nützliche TeX-Makros für den durchschnittlichen Anwender. Die neueren Versionen von LaTex ab 1990 wurde mittlerweile von verschiedene Programmiere mitentwickelt.</value>
+	<value>LaTeX kann als native Installation auf allen gängigen Plattformen eingesetzt werden oder via einer Online Plattform wie overleaf.com verwendet werden.</value>
+	<value>Auf latex-projekt.org sind z.B. alle Versionen erhältlich. Linux - TeX Live, Mac OS - MacTex oder BasicTex, Windows - MiKTex, proTeXt oder TeX Live, Online - Papeeria, Overleaf, ShareLaTex oder Datazar</value>
+	<value>Es gibt unzählige Vorlagen im Internet (z.B. auf ShareLaTeX.com/templates). bibtex, Easy Book, Exam, Business Card</value>
+	<value>Unterstützt wird: Aufbau der Quelldatei, Aufbau der Gliederungsbefehle, Aufbau des Verzeichnisses, Verweise innerhalb des Dokumentes.</value>
+	<value>Innerhalb vom Dokument sind unterschiedliche Verankerungsmöglichkeiten möglich. Darunter auch Links ins Internet, im Dokument selber und auf externen Dokumenten.</value>
+	<value>eps, png, jpg, pdf</value>
+	<value>LaTeX gibt die Dokumentation im der Form von PDF, HTML oder PostScript aus. Mit unterschiedlichen Konverter ist es jedoch möglich, Word-Textdateien, Exel-Tabellen und weiter Formaten auszugeben.</value>
+	<value>Das Druckformat ist im DIN, US-amerikanische typografischen Konventionen oder KOMA-Script möglich. Es gibt aber zusätzliche Pakete und Klassen die weitere Formate erlauben.</value>
+	<value>LaTeX kann z.B. mit einem GIT System oder einer Online Plattform verwendet werden, um das gleichzeitige Arbeiten an einem Dokument zu unterstützen. </value>
+	<value>LaTeX ist Open Source, jedoch gibt es Tools, welche \LaTeX unterstützen und auf Spenden angewiesen sind.</value>
+	<value>https//latex-projekt.org, https//de.sharelatex.com, https//de.wikipedia.org/wiki/LaTex</value>
+</tool>
