@@ -1,7 +1,6 @@
 %% Erläuterungen zu den Befehlen erfolgen unter
 %% diesem Beispiel.
-
-\documentclass{scrartcl}
+\documentclass[12pt]{article}
 
 %% Packages
 \usepackage[utf8]{inputenc}
@@ -15,8 +14,10 @@
 %% Style
 \geometry{verbose,a4paper,tmargin=25mm,bmargin=25mm,lmargin=30mm,rmargin=20mm}
 
+\graphicspath{{./img/}} %% the graphicspath has to be changed.
+
 \pagestyle{fancy}
-\fancyhf{}
+\fancyhf{\includegraphics[width=1cm]{logo}}
 \rhead{}
 \lhead{}
 \rfoot{Page \thepage}
